@@ -2,4 +2,4 @@
 
 Создание анимации переключения карточек.
 
-Проект доступен по ссылке https://severnyimishka.github.io/cards/
+Можно посмотреть по ссылке https://severnyimishka.github.io/cards/
